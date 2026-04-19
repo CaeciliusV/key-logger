@@ -1,6 +1,10 @@
 # Beginner Python Key Logger
 
+## Status: Complete
+
 This is a software surveillance tool that is able to listen to the keyboard and record every keystroke onto a txt file. I built it to understand how key logging works and the utility of it.
+
+This project is part of a bigger series in which I learn real-world cybersecurity skills alongside my T Level
 
 ## What it does
 
